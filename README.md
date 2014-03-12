@@ -18,4 +18,4 @@ Wait a few moments while your VM is powered on and configured. Now you can acces
     vagrant ssh
     npm start
 
-Now you can bring up your local browser and browse to http://localhost:3000 to see your Node app in action!
+Now you can bring up your local browser and browse to http://192.168.33.10:3000 to see your Node app in action!
