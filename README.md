@@ -1,4 +1,4 @@
-vagrant-node-es6
+koa-bootstrap
 ================
 
 Node.JS environment bootstrap for testing es6 features on Node.js + MongoDB.
